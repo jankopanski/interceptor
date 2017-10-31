@@ -1,0 +1,15 @@
+*.o
+*.so
+.*.swp
+test-lib1
+test-lib2
+test-lib-chain
+test-sysv-hash
+test-simple
+test-dlsym
+test-invalid
+test-double-intercept
+test-conflicts
+test-ifunc
+peda-session-*
+.gdb_history
